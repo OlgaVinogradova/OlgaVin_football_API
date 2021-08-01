@@ -64,3 +64,9 @@ svg:first-child
   padding: 0;
   margin-left: 8px;
 }
+
+@media screen and (max-width: 768px) {
+.nav_text {
+  display: none;
+}
+  }
